@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Tutorial belajar reactjs lengkap",
+        "isi":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut molestias deserunt perspiciatis.",
+        "tags": ["react", "frontend"],
+        "date": "2023-01-01",
+        "isNew": true
+    },
+    {
+        "title": "Meningkatkan performa di reactjs",
+        "isi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae sit atque aliquam, dignissimos cupiditate enim.",
+        "tags": ["react", "frontend"],
+        "date": "2023-01-02",
+        "isNew": false
+    },
+    {
+        "title": "Cara menggunakan chakra-ui di reactjs",
+        "isi":"Lorem ipsum dolor sdasdadasdas dadasdasd",
+        "tags": ["react", "css"],
+        "date": "2023-01-03",
+        "isNew": false
+    }
+]
